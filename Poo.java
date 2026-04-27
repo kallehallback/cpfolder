@@ -1,5 +1,5 @@
 public class Poo {
     public static void main(String[] args) {
-        System.out.println("Fuck, the police.");
+        System.out.println("and pringles.");
     }
 }
